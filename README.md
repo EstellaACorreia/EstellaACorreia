@@ -9,7 +9,7 @@ Profissional formada em Análise e Desenvolvimento de Sistemas, cursando pós em
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstellaACorreia3&repo=EstellaACorreia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstellaACorreia&repo=Tik-Tok-Projeto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 

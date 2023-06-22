@@ -1,7 +1,8 @@
-##### Olá, pessoal 👋
+##### Olar 👋
 
-##### Sobre a Estella
-Profissional formada em Análise e Desenvolvimento de Sistemas, cursando pós em Engenharia de Software com Ênfase em Qualidade e Teste de Software e Segurança da Informação, atuei na área de teste de qualidade com PegaSystem. 
+##### Sobre mim...
+Me chamo Estella, sou uma profissional de TI, formada em Análise e Desenvolvimento de Sistemas, cursando pós em Engenharia de Software com Ênfase em Qualidade e Teste de Software e pós em Segurança da Informação, atuei na área de teste de qualidade com PegaSystem. 
+Também tenho experiência com desenvolvimento front end.
 
 ### Detalhes
 
